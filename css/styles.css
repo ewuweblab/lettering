@@ -2,3 +2,12 @@
 body {
     background: rgba(0, 240, 194, 0.71);
 }
+
+h2 {
+    font-size: 4em;
+}
+
+h2 span:nth-child(odd) {
+  color: #a10022;
+  font-family: 'Rammetto One', arial;
+} 
